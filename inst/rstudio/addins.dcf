@@ -1,0 +1,9 @@
+Name: Insert %<>%
+Description: Inserts `%<>%` at the cursor position.
+Binding: insertCompoundPipeAddin
+Interactive: false
+
+Name: Insert library calls for tidyverse, magrittr and purrr
+Description: Inserts "library(tidyverse); library(magrittr); library(purrr)" at the cursor position.
+Binding: insertLibraryCallsAddin
+Interactive: false
